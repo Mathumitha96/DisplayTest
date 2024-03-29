@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/mathumitha.murugan/Projects/qa-automation/ABTastyautomation/lib/testng-7.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.4.0.r202105021533.jar" sourcepath="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
